@@ -9,7 +9,7 @@
 	"linter": {
 		"rules": {
 			"complexity": {
-				"noUselessCatch": "off",
+		"noUselessCatch": "off",
 				"noBannedTypes": "off"
 			},
 			"correctness": {
